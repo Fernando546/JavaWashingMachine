@@ -61,7 +61,7 @@ public class WashingMachine {
         System.out.println("2. Fast");
         System.out.println("3. Delicate");
         System.out.println("4. Synthetics");
-        System.out.println("5. Custom");
+        System.out.println("5. Custom (Max 4 kg)");
         System.out.println("6. Back to menu");
         System.out.print("Enter your choice: ");
     }
